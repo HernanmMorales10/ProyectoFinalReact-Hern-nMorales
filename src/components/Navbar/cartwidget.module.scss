@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    & p {
+        margin-left: 6px;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        font-size: 1.2rem;
+        text-align: center;
+    }
+}
+
+.carritoIcono {
+    width: 45px;
+    height: 45px;
+    border-radius: 16px ;
+}
+
+.circuloCantidad {
+    background-color: rgba(0, 0, 0, 0.491);
+    border-radius: 15px;
+    display: block;
+    width: 25px;
+    height: 25px;
+}

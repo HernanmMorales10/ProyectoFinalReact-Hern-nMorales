@@ -1,0 +1,14 @@
+.brand {
+    background-image: url(https://i.postimg.cc/1zsK31GX/1366-2000.png);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+}
+
+.logo {
+    width: 450px;
+    height: 80px;
+    filter: drop-shadow(10px 10px 20px black);
+}
